@@ -20,7 +20,7 @@ redirect_from:
 
 Welcome to my academic page! I'm Yangke Li, studying for a Research Master's at the Hamlyn Centre, Imperial College London. My main areas of study are deep learning and computer vision.
 
-I've been focusing on medical imaging applications since 2023, especially using imaging devices like endoscopes, Raman spectroscopy, and pCLE microscopes. You can check out my publications at here.<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I've been focusing on medical imaging applications since 2023, especially using imaging devices like endoscopes, Raman spectroscopy, and pCLE microscopes. You can check out my publications at here.<a href='https://scholar.google.com/citations?user=GOOGLE_ACA_ID'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Beyond academic research, I also enjoy creating small software tools and contributing to the open-source community.
 
@@ -37,9 +37,9 @@ On this website, you'll find information about my research, papers, and projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/bibm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[EndoDepthL: Lightweight Endoscopic Monocular Depth Estimation with CNN-Transformer](https://acmond.blob.core.windows.net/pub/EndoDepthL.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yangke Li**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -53,8 +53,8 @@ On this website, you'll find information about my research, papers, and projects
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10 - 2024.09 (now)*, MRes, Imperial College London, London
+- *2022.10 - 2023.09*, MSc, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
