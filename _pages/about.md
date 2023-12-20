@@ -18,23 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Welcome to my academic homepage! I'm Yangke Li, a Research Master Student at the Hamlyn Centre, Imperial College London. My primary research fields are deep learning and computer vision.
+Welcome to my academic page! I'm Yangke Li, studying for a Research Master's at the Hamlyn Centre, Imperial College London. My main areas of study are deep learning and computer vision.
 
-Since 2023, I have been devoted to applications in medical imaging. My work focuses on unconventional imaging devices, such as endoscopes, Raman spectroscopy, and pCLE microscopes. I have published several papers in this area.<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+I've been focusing on medical imaging applications since 2023, especially using imaging devices like endoscopes, Raman spectroscopy, and pCLE microscopes. You can check out my publications at here.<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Beyond academic research, I am passionate about developing small software tools. I believe that sharing through the open-source community can make our lives more interesting and fulfilling.
+Beyond academic research, I also enjoy creating small software tools and contributing to the open-source community.
 
-This website compiles my research activities, published papers and project details. If you are interested in my work or would like to discuss collaboration opportunities, please feel free to contact me through the listed contact information.
-
+On this website, you'll find information about my research, papers, and projects. If you're interested in my work or want to talk about potential collaborations, please don't hesitate to get in touch using the contact details provided.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🎤 I delivered a keynote presentation online at BIBM23.
+- *2023.10*: &nbsp;🎉 My paper has been accepted by BIBM23.
+- *2023.09*: &nbsp;🎖 I got second place in the SurgRIPE challenge at MICCAI23.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/bibm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
