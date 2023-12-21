@@ -41,17 +41,20 @@ On this website, you'll find information about my research, papers, and projects
 
 **Yangke Li**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://acmond.blob.core.windows.net/pub/EndoDepthL.pdf) |
+[**Video**](https://acmond.blob.core.windows.net/video/Presentation_Video.mp4) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- The method merges a Convolutional Neural Network (CNN) with a Transformer to efficiently generate multi-scale depth maps from images, offering fast inference and comparable performance without increasing network size.
+- A masking mechanism in used to reduces reflections in endoscopic images, improving depth estimation by focusing on non-reflective areas.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [ABCD](https://github.com), A, B, C, **ABCD 2023**
 
+<!--
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+-->
 
 # 📖 Educations
 - *2023.10 - 2024.09 (now)*, MRes, Imperial College London, London
