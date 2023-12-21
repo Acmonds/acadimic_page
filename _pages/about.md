@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Welcome to my academic page! I'm Yangke Li, studying for a Research Master's at the Hamlyn Centre, Imperial College London. My main areas of study are deep learning and computer vision.
+Welcome to my academic page! I'm Yangke Li, studying for a Research Master degree at the Hamlyn Centre, Imperial College London. My main areas of study are deep learning and computer vision.
 
 I've been focusing on medical imaging applications since 2023, especially using imaging devices like endoscopes, Raman spectroscopy, and pCLE microscopes. You can check out my publications at here.<a href='https://scholar.google.com/citations?user=GOOGLE_ACA_ID'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -48,21 +48,20 @@ On this website, you'll find information about my research, papers, and projects
 </div>
 </div>
 
-- [ABCD](https://github.com), A, B, C, **ABCD 2023**
+- [ABCD](https://example.com), A, B, C, **ABCD 2023**
 
-<!--
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
+- *2018.09* National Scholarship (Undergraduate) (Top 20%)
+
 
 # 📖 Educations
-- *2023.10 - 2024.09 (now)*, MRes, Imperial College London, London
-- *2022.10 - 2023.09*, MSc, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10 - 2024.09 (now)*, MRes, Hamlyn Centre, Imperial College London, London
+- *2022.10 - 2023.09*, MSc, School of Computer Science, University of Glasgow, Glasgow (with Distinction)(GPA:77.5%)
+- *2016.09 - 2020.06*, BEng, School of Mechatronics, Harbin Engineering University, Harbin (GPA:81.6%)
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09*, MICCAI23's SurgRIPE Challange \| [\[video\]](https://acmond.blob.core.windows.net/video/video3149589789.mp4) \| [\[certificate\]](https://acmond.blob.core.windows.net/files/Award_SurgRIPE_ykli.pdf)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2020.09 - 2021.08*, Research assistant, Harbin Engineering University, China.
