@@ -34,7 +34,7 @@ On this website, you'll find information about my research, papers, and projects
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='images/bibm23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='https://acmond.blob.core.windows.net/img/bibm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EndoDepthL: Lightweight Endoscopic Monocular Depth Estimation with CNN-Transformer](https://acmond.blob.core.windows.net/pub/EndoDepthL.pdf)
@@ -65,3 +65,5 @@ On this website, you'll find information about my research, papers, and projects
 
 # 💻 Internships
 - *2020.09 - 2021.08*, Research assistant, Harbin Engineering University, China.
+
+<img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=8BYuA1FU1KW1eRaOw1KLC00PV5vWiNbFsX7jmbdxEHI&co=ffffff&ct=808080" style="opacity: 0; width: 0; height: 0;">
