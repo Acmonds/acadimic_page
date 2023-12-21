@@ -8,11 +8,11 @@
 # Site Settings
 title                    : "Yangke Li"
 description              : "Research Master Student"
-repository               : "https://github.com/Acmonds/acadimic_page"
+repository               : "Acmonds/acadimic_page"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-3B3K4LPESJ" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
