@@ -34,15 +34,15 @@ On this website, you'll find information about my research, papers, and projects
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='https://acmond.blob.core.windows.net/img/bibm23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='https://acmondcdn.azureedge.net/media/bibm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EndoDepthL: Lightweight Endoscopic Monocular Depth Estimation with CNN-Transformer](https://acmond.blob.core.windows.net/pub/EndoDepthL.pdf)
+[EndoDepthL: Lightweight Endoscopic Monocular Depth Estimation with CNN-Transformer](https://arxiv.org/abs/2308.02716)
 
 **Yangke Li**
 
-[**Paper**](https://acmond.blob.core.windows.net/pub/EndoDepthL.pdf) |
-[**Video**](https://acmond.blob.core.windows.net/video/Presentation_Video.mp4) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Paper**](https://acmondcdn.azureedge.net/doc/EndoDepthL.pdf) |
+[**Video**](https://acmondcdn.azureedge.net/media/Presentation_Video.mp4) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The method merges a Convolutional Neural Network (CNN) with a Transformer to efficiently generate multi-scale depth maps from images, offering fast inference and comparable performance without increasing network size.
 - A masking mechanism in used to reduces reflections in endoscopic images, improving depth estimation by focusing on non-reflective areas.
 </div>
@@ -61,7 +61,7 @@ On this website, you'll find information about my research, papers, and projects
 - *2016.09 - 2020.06*, BEng, School of Mechatronics, Harbin Engineering University, Harbin (GPA:81.6%)
 
 # 💬 Invited Talks
-- *2023.09*, MICCAI23's SurgRIPE Challange \| [\[video\]](https://acmond.blob.core.windows.net/video/video3149589789.mp4) \| [\[certificate\]](https://acmond.blob.core.windows.net/files/Award_SurgRIPE_ykli.pdf)
+- *2023.09*, MICCAI23's SurgRIPE Challange \| [\[video\]](https://acmondcdn.azureedge.net/media/video3149589789.mp4) \| [\[certificate\]](https://acmondcdn.azureedge.net/doc/Award_SurgRIPE_ykli.pdf)
 
 # 💻 Internships
 - *2020.09 - 2021.08*, Research assistant, Harbin Engineering University, China.
