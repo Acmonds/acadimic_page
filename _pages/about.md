@@ -37,7 +37,7 @@ On this website, you'll find information about my research, papers, and projects
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2023</div><img src='https://acmondcdn.azureedge.net/media/bibm23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EndoDepthL: Lightweight Endoscopic Monocular Depth Estimation with CNN-Transformer](https://ieeexplore.ieee.org/document/10386008)
+[EndoDepthL: Lightweight Endoscopic Monocular Depth Estimation with CNN-Transformer](https://arxiv.org/abs/2308.02716)
 
 **Yangke Li**
 
@@ -57,7 +57,7 @@ On this website, you'll find information about my research, papers, and projects
 
 # 📖 Educations
 - *2023.10 - 2024.09 (now)*, MRes, Hamlyn Centre, Imperial College London, London
-- *2021.10 - 2022.09*, MSc, School of Computer Science, University of Glasgow, Glasgow (with Distinction)(GPA:77.5%)
+- *2022.10 - 2023.09*, MSc, School of Computer Science, University of Glasgow, Glasgow (with Distinction)(GPA:77.5%)
 - *2016.09 - 2020.06*, BEng, School of Mechatronics, Harbin Engineering University, Harbin (GPA:81.6%)
 
 # 💬 Invited Talks
