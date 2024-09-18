@@ -63,11 +63,11 @@ On this website, you'll find information about my research, papers, and projects
 # 💬 Invited Talks
 - *2023.09*, MICCAI23's SurgRIPE Challange \| [\[video\]](https://acmondcdn.azureedge.net/media/video3149589789.mp4) \| [\[certificate\]](https://acmondcdn.azureedge.net/doc/Award_SurgRIPE_ykli.pdf)
 
-<!-- 
+
 
 # 💻 Internships
-- *2020.09 - 2021.08*, Research assistant, Harbin Engineering University, China.
+- *2020.09 - 2021.08*, Job, organization, Place.
 
--->
+
 
 <img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=tt&d=8BYuA1FU1KW1eRaOw1KLC00PV5vWiNbFsX7jmbdxEHI&co=ffffff&ct=808080" style="opacity: 0; width: 0; height: 0;">
