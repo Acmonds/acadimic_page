@@ -56,7 +56,7 @@ On this website, you'll find information about my research, papers, and projects
 
 
 # 📖 Educations
-- *2024.10 - *, PhD, Institute for Imaging Data and Communications, University of Edinburgh, Edinburgh
+- *2024.10 - 2028.09*, PhD, Institute for Imaging Data and Communications, University of Edinburgh, Edinburgh
 - *2023.10 - 2024.09*, MRes, Hamlyn Centre, Imperial College London, London
 - *2021.10 - 2022.09*, MSc, School of Computer Science, University of Glasgow, Glasgow (with Distinction)(GPA:77.5%)
 - *2016.09 - 2020.06*, BEng, School of Mechatronics, Harbin Engineering University, Harbin (GPA:81.6%)
