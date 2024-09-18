@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yangke Li"
   avatar           : "https://acmondcdn.azureedge.net/media/avater.png"
-  bio              : "University of Edinburgh1"
+  bio              : "University of Edinburgh"
   location         : "Scotland"
-  employer         : "University of Edinburgh2"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yangke.li@ed.ac.uk"
