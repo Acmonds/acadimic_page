@@ -22,7 +22,7 @@ Welcome to my academic page! I'm Yangke Li, studying for a PhD degree at Institu
 
 I've been focusing on medical imaging applications since 2023, especially using imaging devices like endoscopes, Raman spectroscopy, and pCLE microscopes. You can check out my publications at here.<a href='https://scholar.google.com/citations?user=GOOGLE_ACA_ID'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Beyond academic research, I also enjoy creating small software tools and contributing to the open-source community.
+Beyond academic research, I also enjoy creating small software tools and contributing to the open-source community. 
 
 On this website, you'll find information about my research, papers, and projects. If you're interested in my work or want to talk about potential collaborations, please don't hesitate to get in touch using the contact details provided.
 
